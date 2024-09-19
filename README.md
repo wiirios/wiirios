@@ -1,6 +1,5 @@
 <div style="text-align: center;">
     <img src="I-love-code-18-09-2024 (1).png" alt="Image" width="500px" style="display: inline-block;">
-    <img src="badge.png">
 </div>
 
 <img src="menu-tokukikaku.png">
