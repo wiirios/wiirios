@@ -8,4 +8,6 @@
 <div style="text-align: center;">
   <img src="get_shockwave.png">
   <img src="cheez_its_logo.png">
+  <img src="Count.png">
+    xd
 </div>
