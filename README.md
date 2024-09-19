@@ -9,7 +9,7 @@
 
 <br></br>
 
-&nbsp;&nbsp;![](club-penguin-ghosthy.gif)&nbsp;&nbsp;&nbsp;&nbsp;![](screenies_rev.gif)&nbsp;&nbsp;&nbsp;&nbsp;![](VVWc.gif)
+&nbsp;&nbsp;![](club-penguin-ghosthy.gif)&nbsp;&nbsp;&nbsp;&nbsp;![](VVWc.gif)
 
 <br></br>
 
