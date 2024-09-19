@@ -3,13 +3,20 @@
 <br></br>
 </div>
 
+<div align="center">
+	 <img src="menu-tokukikaku.png">
+</div>
 
-<img src="menu-tokukikaku.png">
-<img src="screenies_rev.gif">
+<br></br>
+
+&nbsp;&nbsp;![](club-penguin-ghosthy.gif)&nbsp;&nbsp;&nbsp;&nbsp;![](screenies_rev.gif)&nbsp;&nbsp;&nbsp;&nbsp;![](VVWc.gif)
+
+<br></br>
 
 <div style="text-align: center;">
   <img src="get_shockwave.png">
   <img src="cheez_its_logo.png">
   <img src="Count.png">
-    xd
 </div>
+
+***i love my life~~***
