@@ -1,10 +1,9 @@
-<pre>
-Microsoft Windows [version 10.0.22631.4169]
-(c) Microsoft Corporation. All rights reserved.
+## Ahoy, I'm William 👋🏻
 
-C:\Users\William> cd/
-C:\> i love .java
-C:\> i'm currently studying spring boot
-C:\> ask me anything
-C:\> exit
-</pre>
+I’m a backend developer who loves solving complex problems and creating efficient, scalable solutions that power great applications.
+
+- 🔭 I’m currently working on: my new projet [eva](https://github.com/wiirios/eva)
+- 🌱 I’m currently learning: Java, C Lang and Spring Boot
+- 📚 Currently Reading: The C Programming Language. 2nd Edition
+- 📫 How to reach me: recuperacaowilliamrios@gmail.com
+- Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
